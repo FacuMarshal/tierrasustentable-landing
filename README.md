@@ -45,3 +45,13 @@ The project focuses on:
 - Clean visual hierarchy
 
 ---
+
+## Screenshots
+
+### Desktop Hero
+
+![Desktop Hero](hero-desktop.png)
+
+## Live Demo
+
+https://tierrasustentable.com
