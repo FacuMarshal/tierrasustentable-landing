@@ -1,5 +1,3 @@
----
-
 ## Overview
 
 This landing page was created for a sustainable architecture brand focused on natural materials, bioclimatic design and regional identity.
